@@ -1,6 +1,6 @@
 # Japanese Vocal Chatbot - Learn Japanese with a Virtual Teacher
 
-A Japanese vocal chatbot designed to help you learn Japanese interactively. This chatbot utilizes Speech to Text and Text to Speech technologies to facilitate conversations between you and a virtual Japanese teacher. You can customize the prompts to suit your learning needs. The chatbot is integrated with speech recognition and Google services, enabling it to understand Japanese and even support multiple languages through a multi-language model.
+A Japanese vocal chatbot designed to help you learn Japanese interactively. This chatbot utilizes Speech to Text and Text to Speech technologies to facilitate conversations between you and a virtual Japanese teacher. You can customize the prompts to suit your learning needs. The chatbot is integrated with speech recognition and Google services. (TODO: support multiple languages through a multi-language model.)
 
 ## Installation
 
