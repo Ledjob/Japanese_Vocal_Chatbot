@@ -23,6 +23,7 @@ Run the fast_teacher.py script to start a conversation with the chatbot.
 ```bash
 python fast_teacher.py
 ```
+![demo](snip.png)
 
 ## Configuration
 You can configure the chatbot's voice and model by editing the voice_jp.py file. Modify the speak function to change the voice, and you can experiment with different models using Hugging Face's model repository. You can also change the translation language. Currently, the chatbot employs OpenAI's chat completion endpoint, speech recognition, and Google services to understand Japanese. 
