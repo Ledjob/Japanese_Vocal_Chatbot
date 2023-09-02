@@ -31,12 +31,10 @@ def main():
     recognizer = sr.Recognizer()
     #romanji
     katsu = cutlet.Cutlet()
-    
 
     print("Press and hold the Ctrl key while speaking to discuss or ALT for translation")
 
-    while True:
-        
+    while True:  
         if keyboard.is_pressed('ctrl'):
             print("Listening...")
             with sr.Microphone() as source:

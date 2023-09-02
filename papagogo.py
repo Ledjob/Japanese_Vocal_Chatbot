@@ -1,5 +1,5 @@
-from dotenv.main import load_dotenv
 import os
+from dotenv.main import load_dotenv
 from papago import Translator
 
 load_dotenv()
